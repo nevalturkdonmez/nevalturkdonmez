@@ -19,10 +19,9 @@
 
  -->
  <div align="center">
-<a href="http://www.github.com/nevalturkdonmez"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=nevalturkdonmez&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="nevalturkdonmez
- GitHub stats"/></a>
-<a href="http://www.github.com/nevalturkdonmez/"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevalturkdonmez&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-<a href="http://www.github.com/nevalturkdonmez/"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nevalturkdonmez&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+<a href="http://www.github.com/nevalturkdonmez"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ilkeryuce1&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="ilkeryuce1 GitHub stats"/></a>
+<a href="http://www.github.com/nevalturkdonmez"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevalturkdonmez&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/nevalturkdonmez"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nevalturkdonmez&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 </div>
 
 <br/>
