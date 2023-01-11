@@ -27,14 +27,12 @@
 "><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevalturkdonmez
 &langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <a href="http://www.github.com/nevalturkdonmez
-"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nevalturkdonmez
-&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nevalturkdonmez&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 </div>
 
 <br/>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nevalturkdonmez
-/count.svg" />
+  <img src="https://profile-counter.glitch.me/nevalturkdonmez/count.svg" />
 </p>
 
