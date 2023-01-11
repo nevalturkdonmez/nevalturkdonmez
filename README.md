@@ -16,8 +16,8 @@
 </h4>
                                        <!--                        
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
-
  -->
+ 
  <div align="center">
 <a href="http://www.github.com/nevalturkdonmez"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ilkeryuce1&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="ilkeryuce1 GitHub stats"/></a>
 <a href="http://www.github.com/nevalturkdonmez"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevalturkdonmez&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
@@ -29,4 +29,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/nevalturkdonmez/count.svg" />
 </p>
-
